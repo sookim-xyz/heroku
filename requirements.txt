@@ -1,0 +1,25 @@
+asgiref==3.3.4
+awscli==1.19.51
+botocore==1.20.51
+click==7.1.2
+colorama==0.4.3
+dj-database-url==0.5.0
+Django==3.2
+django-heroku==0.0.0
+docutils==0.15.2
+gunicorn==20.1.0
+jmespath==0.10.0
+joblib==1.0.1
+nltk==3.6.1
+pyasn1==0.4.8
+python-dateutil==2.8.1
+pytz==2021.1
+PyYAML==5.4.1
+regex==2021.4.4
+rsa==4.7.2
+s3transfer==0.3.7
+six @ file:///AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-103/six-1.15.0-py2.py3-none-any.whl
+sqlparse==0.4.1
+tqdm==4.60.0
+urllib3==1.26.4
+whitenoise==5.3.0
